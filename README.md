@@ -12,7 +12,7 @@ Sou estudante de teologia, criador de conteúdo e atuo na interseção entre tec
 - 💼 **Estratégia & Marketing:** CMO na Leguiard, focando em execução e posicionamento.
 - ⚙️ **Tech & Automação:** Desenvolvimento de automações web (Python/JS), scripts e planilhas avançadas (Excel/VBA) para otimização de engenharia corporativa.
 - 🎛️ **Áudio & Produção:** Técnico de som avançado (Allen & Heath SQ-6, Behringer Wing).
-- 🎮 **Off-topic:** No tempo livre, jogo CS e God of War, escuto música com compassos ímpares e tomo um bom tereré.
+- 🎮 **Off-topic:** No tempo livre, jogo CS, escuto música e tomo um bom tereré.
 
 ---
 
@@ -32,8 +32,8 @@ Sou estudante de teologia, criador de conteúdo e atuo na interseção entre tec
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaokk13&show_icons=true&bg_color=1c1124&title_color=a074c4&text_color=d1c2d9&icon_color=6f42c1&hide_border=true" alt="Estatísticas Gerais" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaokk13&layout=compact&bg_color=1c1124&title_color=a074c4&text_color=d1c2d9&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaokk13&show_icons=true&bg_color=1c1124&title_color=a074c4&text_color=d1c2d9&icon_color=6f42c1&hide_border=true" alt="Estatísticas Gerais" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaokk13&layout=compact&bg_color=1c1124&title_color=a074c4&text_color=d1c2d9&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
 </p>
 
 ---
