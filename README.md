@@ -28,12 +28,12 @@ Sou estudante de teologia, criador de conteúdo e atuo na interseção entre tec
 ## 📊 Estatísticas 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaokk13&bg_color=1c1124&color=a074c4&line=6f42c1&point=d1c2d9&area=true&hide_border=true" alt="Gráfico de Contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaokk13&bg_color=0d1a11&color=4caf50&line=2e7d32&point=a5d6a7&area=true&hide_border=true" alt="Gráfico de Contribuições" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaokk13&show_icons=true&bg_color=1c1124&title_color=a074c4&text_color=d1c2d9&icon_color=6f42c1&hide_border=true" alt="Estatísticas Gerais" height="150"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaokk13&layout=compact&bg_color=1c1124&title_color=a074c4&text_color=d1c2d9&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaokk13&show_icons=true&bg_color=0d1a11&title_color=4caf50&text_color=a5d6a7&icon_color=2e7d32&hide_border=true" alt="Estatísticas Gerais" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaokk13&layout=compact&bg_color=0d1a11&title_color=4caf50&text_color=a5d6a7&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
 </p>
 
 ---
