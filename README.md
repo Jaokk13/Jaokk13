@@ -7,7 +7,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou estudante de teologia, criador de conteúdo e atuo na interseção entre tecnologia, negócios e comunicação. Busco sempre estruturar processos com lógica prática, seja na automação de rotinas corporativas, no áudio profissional ou no posicionamento de marca. 
+Sou estudante de teologia e programação, atuo na interseção entre tecnologia, negócios e comunicação. Busco sempre estruturar processos com lógica prática, seja na automação de rotinas corporativas, no áudio profissional ou no posicionamento de marca. 
 
 - 💼 **Estratégia & Marketing:** CMO na Leguiard, focando em execução e posicionamento.
 - ⚙️ **Tech & Automação:** Desenvolvimento de automações web (Python/JS), scripts e planilhas avançadas (Excel/VBA) para otimização de engenharia corporativa.
